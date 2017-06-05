@@ -3,7 +3,7 @@ span{
        height:50px;
        width:75px;
        background:#00ff00;
-       display:inline;
+       display: inline;
 /*float:;*/
 }
 
@@ -11,7 +11,7 @@ div{
        height:100px;
        width:45%;
        background:#00ffff;
-       display:block;
+       display: block;
 /*float:;*/
 }
 
