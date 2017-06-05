@@ -4,8 +4,8 @@ span{
        width:75px;
        background:#00ff00;
        display: inline;
-       float:both;
-       clear:.05;
+       /*float:right;*/
+       /*clear:;*/
 }
 
 div{
@@ -13,12 +13,13 @@ div{
        width:45%;
        background:#00ffff;
        display: block;
-       float:both;
-       clear:.08;
+       /*float:right;*/
+       /*clear:;*/
 }
 
 p{
        height:100px;
        width:200px;
        background:#ff00ff;
+       /*clear:both;*/
 }
