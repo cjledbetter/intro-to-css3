@@ -21,3 +21,11 @@ h2{
     color: #23ff00;
     background: #00B7ea;
 }
+
+details{
+    font-style: italic;
+}
+
+summary{
+    font-style: normal;
+}
