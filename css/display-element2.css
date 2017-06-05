@@ -1,8 +1,8 @@
 /*Take out the comments around each rule.
 
 Try changing the display property*/
-/* span{
-       height:500px;
+span{
+       height:50px;
        width:75px;
        background:#00ff00;
 /*display: Try block and inline block; */
