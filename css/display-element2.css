@@ -1,15 +1,24 @@
-span{
-  display:inline-block;
+/*Take out the comments around each rule.
+
+Try changing the display property*/
+/* span{
+       height:500px;
+       width:75px;
+       background:#00ff00;
+/*display: Try block and inline block; */
+/*float:;*/
 }
 
 div{
-  display:inline;
+       height:100px;
+       width:45%;
+       background:#00ffff;
+/*display:; */
+/*float:;*/
 }
 
-div{
-  float:left;
-}
-
-div{
-  float:right;
+p{
+       height:100px;
+       width:200px;
+       background:#ff00ff;
 }
