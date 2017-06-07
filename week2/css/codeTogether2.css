@@ -6,6 +6,7 @@ body{
 header{
     background: #666666;
     text-align: center;
+    padding: 15px;
 }
 
 h1{
@@ -23,6 +24,13 @@ h2{
     background: #00B7ea;
 }
 
+section{
+    width:30%;
+    display:inline-block;
+    float: left;
+    margin-right:3%;
+}
+
 details{
     font-style: italic;
 }
@@ -33,4 +41,9 @@ summary{
 
 footer{
     background #666666;
+    clear: both;
+}
+
+img{
+    width:75px;
 }
